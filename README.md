@@ -1,7 +1,8 @@
 ### Hi there, I'm Swapnil - aka [SoniSins][website] 👋
 
-[![Website](https://img.shields.io/website?label=swapnilsoni.xyz&style=for-the-badge&url=https%3A%2F%swapnilsoni.xyz)](https://swapnilsoni.xyz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SwapnilSoniXDA?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSwapnilSoniXDA&screen_name=SwapnilSoniXDA)
+[![Website](https://img.shields.io/website?label=swapnilsoni.xyz&style=for-the-badge&url=https://swapnilsoni.xyz)](https://swapnilsoni.xyz)
+[![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://gamerary.com)](https://gamerary.com)
+
 
 ## I'm a Student, Developer, and Lazy Person(ofcourse)!
 
