@@ -12,11 +12,12 @@
 ### Connect with me:
 
 [<img align="left" alt="swapnilsoni.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="swapnilsoni1999 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="swapnilsoni1999 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="swapnilsoni1999 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="swapnilsoni1999 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="swapnilsoni1999 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="22px" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M0 16.7l3.2-3.8L0 9.1l1.5-1.3l3 3.5l3-3.5L9 9.1l-3.2 3.8L9 16.7L7.5 18l-3-3.6l-3 3.6L0 16.7m24 .2c0 .5-.4 1-1 1h-3c-1.1 0-2-.9-2-2v-2c0-1.1.9-2 2-2h2v-2h-4V8h5c.5 0 1 .4 1 1m-2 5h-2v2h2v-2m-6 2.9c0 .5-.4 1-1 1h-3c-1.1 0-2-.9-2-2v-6c0-1.1.9-2 2-2h2V5h2v11.9m-2-1v-6h-2v6h2z" fill="#626262"/></svg>][xda]
+[<img align="left" alt="swapnilsoni1999 | XDA Developers" width="22px" src="https://icons.veryicon.com/png/o/object/material_design_icons/xda-7.png">][xda]
 
 <br />
 
@@ -58,9 +59,12 @@
 
 <br />
 
+### Github Stats
+
 <img alt="Swapnil Soni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SwapnilSoni1999&show_icons=true&count_private=true" />
 
 [website]: https://swapnilsoni.xyz
+[facebook]: https://fb.me/swapnilsoni1999
 [twitter]: https://twitter.com/SwapnilSoniXDA
 [youtube]: https://youtube.com/swapnilsoni
 [instagram]: https://instagram.com/soniswapnil
