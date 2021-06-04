@@ -7,7 +7,7 @@
 ## I'm a Student, Developer, and Lazy Person(ofcourse)!
 
 - 🔭 I’m currently working on a [Gaming Platform](https://gamerary.com)!
-- 🥅 2020 Goals: Contribute more to Open Source projects and build my gaming platform!
+- 🥅 2021 Goals: Contribute more to Open Source projects and build my gaming platform!
 - ⚡ Hobbies: I love reverse engineering websites and building Custom ROMs!
 
 ### Connect with me:
