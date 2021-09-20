@@ -1,13 +1,15 @@
+
 ### Hi there, I'm Swapnil - aka [SoniSins][website] 👋
+![](https://komarev.com/ghpvc/?username=SwapnilSoni1999)
 
 <!-- [![Website](https://img.shields.io/website?label=swapnilsoni.xyz&style=for-the-badge&url=https://swapnilsoni.xyz)](https://swapnilsoni.xyz) -->
-[![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://gamerary.com)](https://gamerary.com)
+<!-- [![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://gamerary.com)](https://gamerary.com) -->
 
 
-## I'm a Student, Developer, and Lazy Person(ofcourse)!
+## I'm a Full Stack Developer!
 
-- 🔭 I’m currently working on a [Gaming Platform](https://gamerary.com)!
-- 🥅 2021 Goals: Contribute more to Open Source projects and build my gaming platform!
+- 🔭 ~~I’m currently working on a [Gaming Platform](https://gamerary.com)!~~ (Abandoned Due to different plans for now)
+- 🥅 2021 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!
 - ⚡ Hobbies: I love reverse engineering websites and building Custom ROMs!
 
 ### Connect with me:
@@ -61,9 +63,9 @@
 
 ### Github Stats
 
-<img alt="Swapnil Soni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SwapnilSoni1999&show_icons=true&count_private=true" />
+<img alt="Swapnil Soni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SwapnilSoni1999&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 
-[website]: https://swapnilsoni.xyz
+[website]: https://fb.me/swapnilsoni1999
 [facebook]: https://fb.me/swapnilsoni1999
 [twitter]: https://twitter.com/SwapnilSoniXDA
 [youtube]: https://youtube.com/swapnilsoni
