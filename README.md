@@ -13,6 +13,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!
 - ⚡ Hobbies: I love reverse engineering websites and building Custom ROMs!
 
+## My Articles
+
+- 🛺 [Anonymous Posting on Facebook using Google Forms, Telegram and Facebook Graph API](https://swapnilsoni1999.medium.com/anonymous-posting-on-facebook-using-graph-api-telegram-bot-api-and-google-apps-script-for-google-45b4b586b682)
+
 ### Connect with me:
 
 [<img align="left" alt="swapnilsoni.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
