@@ -1,5 +1,9 @@
 
+<<<<<<< Updated upstream
 I have tech enthisiasm 
+=======
+Swapnil's community is amazing 
+>>>>>>> Stashed changes
 ### Hi there, I'm Swapnil - aka [SoniSins][website] 👋
 ![](https://komarev.com/ghpvc/?username=SwapnilSoni1999)
 
