@@ -9,7 +9,6 @@
 
 ## I'm a Full Stack Developer!
 
-- 🔭 ~~I’m currently working on a [Gaming Platform](https://gamerary.com)!~~ (Abandoned Due to different plans for now)
 - ~~2021 Done: contributing best to opensource~~ (CoWIN Bot for India!)
 - 🥅 2023 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!
 - ⚡ Hobbies: I love reverse engineering websites and building Custom ROMs!
