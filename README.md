@@ -9,7 +9,9 @@
 
 ## I'm a Full Stack Developer!
 
-- ~~2021 Done: contributing best to opensource~~ (CoWIN Bot for India!)
+- ~~2021 Goals: contributing best to opensource~~ (CoWIN Bot for India!)
+- ~~2022 Goals: Goto Canada and Get Canadian Postgrad diploma~~
+- ~~2023 Goals: Reach to senior level position~~ (Reached with a cost of extreme burnout)
 - 🥅 2024 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!
 - ⚡ Hobbies: I love reverse engineering websites and building Custom ROMs!
 
