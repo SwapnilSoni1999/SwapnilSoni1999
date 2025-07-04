@@ -75,7 +75,7 @@
 <br />
 <img alt="Swapnil Soni's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=SwapnilSoni1999&theme=dark" />
 
-[website]: https://fb.me/swapnilsoni1999
+[website]: https://10xdev.me
 [facebook]: https://fb.me/swapnilsoni1999
 [twitter]: https://twitter.com/SwapnilSoniXDA
 [youtube]: https://youtube.com/swapnilsoni
