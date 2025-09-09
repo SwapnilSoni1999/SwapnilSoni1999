@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Swapnil - aka [SoniSins][website] 👋
+### Hi there, I'm Swapnil - aka [SoniSins][website] or [10dev.me][website] 👋
 ![](https://komarev.com/ghpvc/?username=SwapnilSoni1999) [![wakatime](https://wakatime.com/badge/user/9ea08067-3b6e-4b2a-b51b-6fda9531de2d.svg)](https://wakatime.com/@9ea08067-3b6e-4b2a-b51b-6fda9531de2d)
 
 <!-- [![Website](https://img.shields.io/website?label=swapnilsoni.xyz&style=for-the-badge&url=https://swapnilsoni.xyz)](https://swapnilsoni.xyz) -->
