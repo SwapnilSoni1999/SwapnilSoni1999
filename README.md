@@ -13,7 +13,8 @@
 - ~~2022 Goals: Goto Canada and Get Canadian Postgrad diploma~~
 - ~~2023 Goals: Reach to senior level position~~ (Reached with a cost of extreme burnout)
 - ~~🥅 2024 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!~~ (Built a crypto trading bot)
-- 🚀 2025 Goals: build duckduckgo like email forwarding portal for 10xdev.me and launch my dream project.
+- ~~🚀 2025 Goals: build duckduckgo like email forwarding portal for 10xdev.me and launch my dream project.~~ (Self hosted my own mail forwarder on mail.10xdev.me, Got a well deserving Job)
+- 🧘 2026 Goals: Trying to fix my physique and get healthy + Build some side hustle 
 - ⚡ Hobbies: I love reverse engineering websites and building Custom ROMs!
 
 ## My Articles
